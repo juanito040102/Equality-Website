@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "EQUALITY INDEX IN THE WORLD"
-theme: cayman
 ---
 
 # Equality Mapping Project
@@ -17,11 +15,32 @@ The goal of this project is to build using python notebooks and specifically, th
 The lower the value, the lower users of the website rank that country. The higgher the value, means this country has a lot of upvotes and this is probably because the users feed the website of Equaldex with valuable information. 
 
 The World:
+![World](world.jpg)
+
+
+How is the index distributed across the continents? can we say something about the overall distributions?
+![Box Plots](boxplots.jpg)
+
+Europe Map:
+
 ![Europe](europe.jpg)
+
+South America Map:
+
 ![South America](southamerica.jpg)
+
+North America Map:
+
 ![North America](northamerica.jpg)
+
+Asia Map:
 ![Asia](asia.jpg)
+
+Africa Map:
+
 ![Africa](africa.jpg)
+
+Oceania Map:
 ![Oceania](oceania.jpg)
 
 
