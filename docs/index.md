@@ -24,6 +24,8 @@ Europe Map:
 ![Europe](europe.jpg)
 
 Highlights: Iceland, Norway, Germany, Spain and the Netherlands.
+
+
 Lowlights: Belarus, Moldova, Bulgaria
 
 South America Map:
@@ -31,6 +33,8 @@ South America Map:
 ![South America](southamerica.jpg)
 
 Highlights: Uruguay, Chile, Brazil, Argentina and Colombia
+
+
 Lowlights: Paraguay, Guyana and Suriname
 
 North America Map:
@@ -38,12 +42,16 @@ North America Map:
 ![North America](northamerica.jpg)
 
 Highlights: Canada, Mexico, USA and Costa Rica
+
+
 Lowlights: Haiti, Dominican Republic Panama and Jamaica
 
 Asia Map:
 ![Asia](asia.jpg)
 
 Highlights: Thailand, Nepal, Japan, India
+
+
 Lowlights: Russia, Afghanistan, Iran, Oman, Qatar and Brunei
 
 Africa Map:
@@ -52,6 +60,8 @@ Africa Map:
 
 
 Highlights: South Africa and Botswana, 
+
+
 Lowlights: Somalia, Senegal and Zambia
 
 Oceania Map:
@@ -59,6 +69,8 @@ Oceania Map:
 
 
 Highlights: Australia, New Zealand and Fiji
+
+
 Lowlights: Papua New Guinea and Solomon Islands
 
 # Here is an Interactive Map! zoom in, out, pan around or click countries to learn more...
