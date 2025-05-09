@@ -11,10 +11,18 @@ The goal of this project is to analyze the data from a world perspective, a cont
 
 ## Rationale
 
+<<<<<<< HEAD
+=======
 There is a rising movement of anti-woke / anti-LGBTQ+ that is unprecedented for the last decade, and new political groups are getting stronger everyday advocating against gay marriage, gay adoption, gender affirming care, gender re-assingment and other LGBTQ+ basic human rights. 
+>>>>>>> fcebf5346cd734d2f3b8ea50e76e5efc1fad3462
 
+<<<<<<< HEAD
+=======
 This project aims to show the differences in countries and also the variance in regions like continents. With the data of public opinion, there is an aim to show which countries are not safe for LGBTQ+ tourists and residents and which are the reasons why.
+>>>>>>> fcebf5346cd734d2f3b8ea50e76e5efc1fad3462
 
+<<<<<<< HEAD
+=======
 ## Workflow
 
 
@@ -26,3 +34,5 @@ This project aims to show the differences in countries and also the variance in 
 Csv Dataset: 
 Python Notebook: 
 
+
+>>>>>>> fcebf5346cd734d2f3b8ea50e76e5efc1fad3462
